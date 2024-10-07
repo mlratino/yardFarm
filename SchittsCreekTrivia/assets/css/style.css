@@ -1,0 +1,53 @@
+header{
+    background-color: #a7cff5;
+    text-align: center;
+    padding: 20px;
+  }
+
+  body {
+    background-image: url("motel.jpg");
+          background-repeat:no-repeat;
+        background-size:cover;
+  } 
+
+
+
+/* .body {
+    
+    
+    background-image: url("img_mid-century-modern-sun-rainbow-prints.jpg ");
+                background-repeat:no-repeat;
+               background-size:cover;
+        }  */
+  
+        /* body {
+          background-image:"motel.jpg";
+         } */
+         
+         h1 {
+           
+           text-align: center;
+         }
+         
+         
+       body {
+         margin: auto;
+         width: 60%;
+         border: 3px solid #5721ad;
+         padding: 10px;
+       }
+       .card {
+         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+         transition: 0.3s;
+         border-radius: 5px; /* 5px rounded corners */
+       }
+       
+       /* Add rounded corners to the top left and the top right corner of the image */
+       img {
+         border-radius: 5px 5px 0 0;
+       }
+         p {
+           font-family: verdana;
+           font-size: 20px;
+         }   
+ 
