@@ -1,4 +1,8 @@
-# SchittsCreekTrivia- a collection of trivia games
+# yardfarm - learnmoreknowmoregrowmore
+
+Container gardening, also known as yardfarming, is revolutionizing the way people think about gardening and green spaces. This innovative approach allows individuals to cultivate plants in containers, making gardening accessible to everyone, regardless of the size or location of their living space. Here are some compelling reasons why container gardening could be the perfect fit for you:
+
+
 <img src=assets\images\motel.PNG>
 ## SUPERFANS only! Tittlating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references "everything Schitt$ Creek."
 
