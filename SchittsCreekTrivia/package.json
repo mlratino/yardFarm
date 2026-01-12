@@ -1,0 +1,19 @@
+{
+  "name": "schittscreektrivia",
+  "version": "1.0.0",
+  "description": "<img src=assets\\images\\motel.PNG>\r ## SUPERFANS only! Tittlating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references \"everything Schitt$ Creek.\"\r ##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,this is a living repository.  I will add features as I practice and learn.\r  ### Guess the answer to the trivia question your letter guesses are tracked to help you solve this kicked up hangman-style game!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlratino/SchittsCreekTrivia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlratino/SchittsCreekTrivia/issues"
+  },
+  "homepage": "https://github.com/mlratino/SchittsCreekTrivia#readme"
+}
